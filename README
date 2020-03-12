@@ -1,0 +1,5 @@
+xkbswitch - set/get current layout group index in [0..3]
+usage: xkbswitch [0..3]
+If no args then just prints current layout group index
+
+LICENSE: Public Domain
