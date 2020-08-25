@@ -1,5 +1,5 @@
 PREFIX  = /usr/local
-CFLAGS  = -Wall -Wextra \
+CFLAGS  += -Wall -Wextra \
 	-I/usr/include -I/usr/local/include \
 	-I/usr/include/X11 -I/usr/local/include/X11
 LDFLAGS = -L/usr/lib -L/usr/local/lib \
